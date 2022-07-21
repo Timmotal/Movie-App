@@ -13,4 +13,5 @@ body {
 header {
     background-color: #4152a5;
     display: flex;
+    justify-content: flex-end;
 }
