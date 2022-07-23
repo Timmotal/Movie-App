@@ -19,5 +19,7 @@ header {
 
 .search {
     background-color: transparent;
+    color: #F197A4;
+    border: 2px solid #F197A4;
 }
 git commit -am '
