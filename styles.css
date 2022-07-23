@@ -21,5 +21,7 @@ header {
     background-color: transparent;
     color: #F197A4;
     border: 2px solid #F197A4;
+    border-radius: 50px;
+    font-family: inherit;
 }
 git commit -am '
