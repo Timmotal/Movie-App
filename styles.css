@@ -17,4 +17,7 @@ header {
     padding: 1rem;
 }
 
-.search {}
+.search {
+    background-color: transparent;
+}
+git commit -am '
