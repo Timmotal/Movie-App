@@ -31,3 +31,6 @@ header {
     color: #F197A4;
     background-color: transparent;
 }
+
+.search:focus {
+}
