@@ -34,5 +34,5 @@ header {
 
 .search:focus {
     outline: none;
-    
+    background-color: #4152a5;
 }
