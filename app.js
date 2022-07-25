@@ -6,4 +6,6 @@ const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?&api_key=04c35731a5
 
 const main = document.getElementById('main');
 
+const form = document.getElementById('form');
+
 // git commit -am '
