@@ -10,4 +10,7 @@ const form = document.getElementById('form');
 
 const search = document.getElementById('search');
 
+// initially get fav movies, by popularity as inluded in the "APIURL"
+getMovies(APIURL);
+
 // git commit -am '
