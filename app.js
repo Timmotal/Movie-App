@@ -18,4 +18,5 @@ getMovies(APIURL);
 async function getMovies(url) {
     const resp = await fetch (url); 4
     const respData = await resp.json();
+    showMovies(respData.results);
 }
