@@ -15,4 +15,6 @@ getMovies(APIURL);
 
 // git commit -am '
 
-async function getMovies(url) {}
+async function getMovies(url) {
+    const resp = await fetch (url); 
+}
