@@ -14,3 +14,5 @@ const search = document.getElementById('search');
 getMovies(APIURL);
 
 // git commit -am '
+
+async function getMovies(url) {}
