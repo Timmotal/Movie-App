@@ -22,4 +22,5 @@ async function getMovies(url) {
 }
 
 function showMovies(movies) {
+    main.innerHTML = '';
     git commit -am '
