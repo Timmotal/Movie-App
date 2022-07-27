@@ -22,3 +22,4 @@ async function getMovies(url) {
 }
 
 function showMovies(movies) {
+    git commit -am '
