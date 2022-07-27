@@ -23,4 +23,6 @@ async function getMovies(url) {
 
 function showMovies(movies) {
     main.innerHTML = '';
+
+    movies.forEach(movie => {
     git commit -am '
