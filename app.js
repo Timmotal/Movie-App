@@ -25,4 +25,6 @@ function showMovies(movies) {
     main.innerHTML = '';
 
     movies.forEach(movie => {
+
+        const {poster_path, title, vote_average, overview} = movie;
     git commit -am '
