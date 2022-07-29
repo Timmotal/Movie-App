@@ -33,4 +33,6 @@ function showMovies(movies) {
 
         movieEl.innerHTML =  `
         <img src="${IMGPATH + poster_path}" alt="${title}">
+        <div class="movie-info">
+        <h3>${title}</h3>
     // git commit -am '
