@@ -30,4 +30,6 @@ function showMovies(movies) {
 
         const movieEl = document.createElement('div');
         movieEl.classList.add('movie');
+
+        movieEl.innerHTML =  `
     // git commit -am '
