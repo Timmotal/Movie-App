@@ -32,4 +32,5 @@ function showMovies(movies) {
         movieEl.classList.add('movie');
 
         movieEl.innerHTML =  `
+        <img src="${IMGPATH + poster_path}" alt="${title}">
     // git commit -am '
