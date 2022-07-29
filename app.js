@@ -29,4 +29,5 @@ function showMovies(movies) {
         const {poster_path, title, vote_average, overview} = movie;
 
         const movieEl = document.createElement('div');
+        movieEl.classList.add('movie');
     // git commit -am '
