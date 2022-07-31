@@ -41,4 +41,7 @@ function showMovies(movies) {
         <h3>Overview:</h3>
         ${overview}</div>
         `;
+
+        // document.body.appendChild(movieEl);
+        main.appendChild(movieEl);
     // git commit -am '
