@@ -38,4 +38,5 @@ function showMovies(movies) {
         <span class="${getClassByRate(vote_average)}">${vote_average}</span>
         </div>
         <div class="overview">
+        <h3>Overview:</h3>
     // git commit -am '
