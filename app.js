@@ -40,4 +40,5 @@ function showMovies(movies) {
         <div class="overview">
         <h3>Overview:</h3>
         ${overview}</div>
+        `;
     // git commit -am '
