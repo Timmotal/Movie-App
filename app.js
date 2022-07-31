@@ -44,4 +44,7 @@ function showMovies(movies) {
 
         // document.body.appendChild(movieEl);
         main.appendChild(movieEl);
+
+    });
+}
     // git commit -am '
