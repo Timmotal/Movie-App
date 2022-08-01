@@ -48,3 +48,6 @@ function showMovies(movies) {
     });
 }
     // git commit -am '
+
+
+    function getClassByRate() {}    
