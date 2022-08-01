@@ -51,5 +51,5 @@ function showMovies(movies) {
 
 
     function getClassByRate(vote) { 
-        if () {
+        if ( vote >= 8) {
     }   
