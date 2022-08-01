@@ -50,4 +50,4 @@ function showMovies(movies) {
     // git commit -am '
 
 
-    function getClassByRate() {}    
+    function getClassByRate(vote) {    
