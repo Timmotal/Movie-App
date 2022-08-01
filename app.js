@@ -55,5 +55,7 @@ function showMovies(movies) {
             return 'green';
         } else if ( vote >= 5) {
             return 'orange';
-        } else {}
+        } else {
+            return 'red';
+        }
     }   
