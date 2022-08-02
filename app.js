@@ -58,7 +58,7 @@ function showMovies(movies) {
         } else {
             return 'red';
         }
-    };   
+    }   
 
 
     form.addEventListener('submit', (e) => {
@@ -69,6 +69,6 @@ function showMovies(movies) {
         if(searchTerm) {
             getMovies(SEARCHAPI + searchTerm);
     
-            
+            search.value = '';
         }
     })
