@@ -66,5 +66,5 @@ function showMovies(movies) {
     
         const searchTerm = search.value;
     
-        if() 
+        if(searchTerm) 
     })
