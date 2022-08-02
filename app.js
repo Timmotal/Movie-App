@@ -58,4 +58,7 @@ function showMovies(movies) {
         } else {
             return 'red';
         }
-    }   
+    };   
+
+
+    form.addEventListener( {})
