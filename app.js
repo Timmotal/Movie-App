@@ -61,4 +61,4 @@ function showMovies(movies) {
     };   
 
 
-    form.addEventListener( {})
+    form.addEventListener('submit', (e) => {})
