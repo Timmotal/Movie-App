@@ -44,6 +44,7 @@ main {
 
 .movie {
     background-color: #d86679;
+    border-radius: 3px;
 }
 
 /* git commit -am ' */
