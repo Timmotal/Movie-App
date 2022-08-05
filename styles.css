@@ -63,5 +63,6 @@ main {
 
 .movie-info {
     color: #4152A5;
+    display: flex;
     
 }
