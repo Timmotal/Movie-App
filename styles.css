@@ -97,4 +97,5 @@ main {
     background-color: #fff;
     padding: 2rem;
     position: absolute; /*absolutely positioned relative to the movie div*/
+    max-height: 100%;
 }
