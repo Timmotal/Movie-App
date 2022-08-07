@@ -96,4 +96,5 @@ main {
 .overview {
     background-color: #fff;
     padding: 2rem;
+    position: absolute; /*absolutely positioned relative to the movie div*/
 }
