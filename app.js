@@ -43,7 +43,6 @@ function showMovies(movies) {
          ${overview}</div>
      `;
 
-     // document.body.appendChild(movieEl);
      main.appendChild(movieEl);
  });
 }
