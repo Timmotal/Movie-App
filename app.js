@@ -62,7 +62,7 @@ function showMovies(movies) {
 
 
     form.addEventListener('submit', (e) => {
-        e.preventDefault(); // so we dont want to submit the form so we prevent it, but rather we want to get the input value
+        e.preventDefault(); // so dont want to submit the form, but get the input value
     
         const searchTerm = search.value;
     
