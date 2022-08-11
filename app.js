@@ -22,7 +22,7 @@ async function getMovies(url) {
 }
 
 function showMovies(movies) {
- // clear main, so we clear and then add all the movies, wtf are we clearing?
+
  main.innerHTML = '';
 
  movies.forEach(movie => {
