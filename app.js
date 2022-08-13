@@ -43,8 +43,6 @@ function showMovies(movies) {
      main.appendChild(movieEl);
  });
 }
-    // git commit -am '
-
 
     function getClassByRate(vote) { 
         if ( vote >= 8) {
