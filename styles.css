@@ -99,7 +99,6 @@ main {
     transform: translateY(101%);
     transition: transform .3s ease-in;
 }
-/* git commit -am ' */
 
 .overview h3 {
     margin-top: 0;
