@@ -58,7 +58,6 @@ main {
     /* object-fit: cover;
     height: 400px; after adjusting padding, we got rid of this */
     width: 100%;
-    /* max-width: 100%; */
 }
 
 .movie-info {
